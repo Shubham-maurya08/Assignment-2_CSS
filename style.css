@@ -1,0 +1,202 @@
+body{
+    background-image: url(./annie-spratt-0ZPSX_mQ3xI-unsplash.jpg);
+}
+.main1{
+    border: 5px solid green;
+    padding: 20px;
+}
+
+.head{
+    display: flex;
+    flex-direction:row;
+}
+.p1{
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 5px;
+    height: 150px;
+    width: 310px;
+    text-align: center;
+}
+.p2{
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 40px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    padding-left: 20px; 
+    height: 60%;
+    width: 400px;
+    margin-top: 10px;
+    margin-left: -70px;
+    text-align: center;
+}
+.p3{
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 5px;
+    height: 150px;
+    width: 310px;
+    margin-left: 100px;
+    text-align: center;
+}
+
+.main2{
+display: flex;
+flex-direction: row;
+margin-top: 50px;
+align-items: center;
+gap: 200px;
+}
+
+.head2{
+    border: 7px solid grey;
+    border-radius: 50%;
+    height: 260px;
+    width: 300px;
+    background-color: lightseagreen;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.form{
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    height: 600px;
+    width: 350px;
+    text-align: center;
+    background-color: white;
+}
+h2{
+    color: red;
+}
+label{
+    color: #CF4E32;
+}
+input{
+    margin-bottom: 20px;
+}
+label{
+    
+}
+u{
+    font-weight: bolder;
+}
+hr{
+    border-color: white;
+    /* width:270px */
+}
+button{
+    margin-bottom: 20px;
+}
+
+.menu{
+    margin-top: 50px;
+    margin-left: 320px;
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 40px;
+    height: 65px;
+    width: 270px;
+    padding-left: 210px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    font-size: 35px;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hr2{
+    border-color: lightgrey;
+    width: 100%;
+}
+
+.main3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.main4{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+h3{
+    font-size: 30px;
+}
+
+.card1{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 260px;
+    margin-right: 100px;
+}
+.card2{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 260px;
+    margin-right: 100px;
+}
+.card3{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 260px;
+}
+.card4{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 260px;
+    margin-right: 100px;
+}
+.card5{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 250px;
+    width: 260px;
+    margin-right: 100px;
+}
+.card6{
+    border: 2px solid green;
+    color: darkblue;
+    border-radius: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    height: 280px;
+    width: 260px;
+}
